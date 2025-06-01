@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticeforExam</string>
+    <string name="danh_s_ch_sinh_vi_n">Danh sách sinh viên</string>
+    <string name="nh_p_ng_y_sinh">Nhập ngày sinh</string>
+    <string name="nh_p_email">Nhập email</string>
+    <string name="nh_p_a_ch">Nhập địa chỉ</string>
+    <string name="nh_p_m_s_sinh_vi_n">Nhập mã số sinh viên</string>
+    <string name="nh_p_t_n_sinh_vi_n">Nhập tên sinh viên</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="add">Add</string>
+    <string name="a_ch">Địa chỉ:</string>
+    <string name="h_v_t_n">Họ và tên:</string>
+    <string name="ng_y_sinh">Ngày sinh:</string>
+    <string name="m_s_sinh_vi_n">Mã số sinh viên:</string>
+    <string name="email">Email:</string>
+    <string name="th_ng_tin_sinh_vi_n">Thông tin sinh viên</string>
+</resources>
